@@ -1,1 +1,8 @@
 
+Object源码
+使用 java.lang 包下的所有类，都不需要手动导入。Java中的两种导包形式
+①、单类型导入（single-type-import），例如import java.util.Date
+②、按需类型导入(type-import-on-demand)，例如import java.util.*
+  根据名字按需导入要知道他是按照需求导入，并不是导入整个包下的所有类。
+  顶层路径名 \ 包名 \ 文件名.class = 绝对路径
+按需类型导入则比较复杂，编译器会把包名和文件名进行排列组合，然后对所有的可能性进行类文件查找定位
