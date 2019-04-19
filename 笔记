@@ -1,4 +1,5 @@
 
+
 https://www.cnblogs.com/ysocean/p/8419559.html
 Object源码
 使用 java.lang 包下的所有类，都不需要手动导入。Java中的两种导包形式
@@ -43,3 +44,5 @@ jvm内存分布
   
   asList返回的List中存储的是引用而不是新的对象，当修改返回的List中的值时，原本的集合中的值也会变化。
   建议asList只读不增删的情况下调用
+
+类比禁闭岛，所有人都是在和主演戏，完了治疗主
