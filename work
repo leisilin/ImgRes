@@ -9,10 +9,13 @@ $ nohup java -jar test.jar >temp.txt &
 Java搭建分布式系统
 https://juejin.im/post/5ad85368f265da50472fc95a
 
-shell中的特殊符号
+shell中的特殊符号★★★
 https://www.cnblogs.com/xuxm2007/archive/2011/10/20/2218846.html
 
-枫叶论坛==★★★ 包含$$等
+shell中执行java注意点★★★★
+https://blog.csdn.net/u012881904/article/details/70147941
+
+枫叶论坛==★★ 包含$$等
 https://forum.iask.ca/forums/%E6%8A%80%E6%9C%AF%E7%A7%BB%E6%B0%91%EF%BC%88ee%EF%BC%89%E6%96%B0%E6%94%BF.90
 
 大牛博客，項目部署等==★★★★★
