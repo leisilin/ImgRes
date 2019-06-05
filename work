@@ -9,6 +9,9 @@ $ nohup java -jar test.jar >temp.txt &
 Java搭建分布式系统
 https://juejin.im/post/5ad85368f265da50472fc95a
 
+cshell命令★★★★包含$status等
+http://noyesno.net/page/shell/csh.html
+
 shell中的特殊符号★★★
 https://www.cnblogs.com/xuxm2007/archive/2011/10/20/2218846.html
 
