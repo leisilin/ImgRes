@@ -1,6 +1,8 @@
 $ nohup java -jar test.jar >temp.txt &
 
 
+shell部署项目★★★★
+https://blog.csdn.net/qq_38439885/article/details/79993389
 
 渗透实践★★★★
 https://lyiang.wordpress.com/category/%E6%B8%97%E9%80%8F%E5%AE%9E%E6%88%98/
