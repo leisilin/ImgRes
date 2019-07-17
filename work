@@ -1,5 +1,9 @@
 $ nohup java -jar test.jar >temp.txt &
 
+
+小白入坑 Web 渗透测试必备指南★★★★
+https://blog.csdn.net/GitChat/article/details/78516749
+
 springMVC执行流程
 https://blog.csdn.net/jeffleo/article/details/54799182
 Java搭建分布式系统
