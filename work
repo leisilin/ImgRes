@@ -1,6 +1,10 @@
 $ nohup java -jar test.jar >temp.txt &
 
 
+
+黑盒渗透测试的一些姿势和个人总结★★★★
+https://www.anquanke.com/post/id/87177
+
 shell部署项目★★★★
 https://blog.csdn.net/qq_38439885/article/details/79993389
 
