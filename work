@@ -1,6 +1,9 @@
 $ nohup java -jar test.jar >temp.txt &
 
 
+给一个网站怎么渗透，大致讲解★★★
+https://blog.csdn.net/u012582664/article/details/60953554
+
 教程资源★★★
 https://blog.csdn.net/paul123456789io/article/details/53635822
 
