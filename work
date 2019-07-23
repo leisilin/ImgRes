@@ -1,5 +1,8 @@
 $ nohup java -jar test.jar >temp.txt &
 
+
+windows mysql提权
+https://xz.aliyun.com/t/2719
 i春秋白帽子
 https://bbs.ichunqiu.com/forum-59-1.html
 渗透博客
