@@ -7,6 +7,8 @@ https://gitee.com/wizardforcel/kali-linux-cookbook-zh
 
 一个有sql注入漏洞的网站
 http://www.dmcsee.org/en/countries/?item_id=5
+http://swa.city-osaka.ed.jp/swas/index.php?id=j542093
+
 获取网站根目录
 --os-shell 获取系统shell，能够执行系统命令
 --sql-shell 获取sql shell能够执行sql
