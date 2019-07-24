@@ -1,6 +1,10 @@
 $ nohup java -jar test.jar >temp.txt &
 
 
+
+学习脚本黑客
+https://blog.csdn.net/abc_12366/article/details/79329096
+
 shell 项目
 https://github.com/rebeyond/Behinder
 windows mysql提权
