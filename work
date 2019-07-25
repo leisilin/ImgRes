@@ -2,6 +2,11 @@ $ nohup java -jar test.jar >temp.txt &
 
 
 
+
+
+frp和nginx配置内网穿透和反向代理，更改80端口
+https://segmentfault.com/a/1190000016556569
+
 学习脚本黑客
 https://blog.csdn.net/abc_12366/article/details/79329096★★★
 
