@@ -1,6 +1,9 @@
 $ nohup java -jar test.jar >temp.txt &
 
 
+博客：shell反弹 msf等★★★★★
+https://sakuxa.com/2019/05/28/msf%E7%B3%BB%E5%88%97%E4%B9%8Bmsfvenom02/
+
 一些渗透文章
 http://zgao.top/
 一个已经被黑的网站
