@@ -1,6 +1,10 @@
 $ nohup java -jar test.jar >temp.txt &
 
 
+
+大牛博客
+https://blog.csdn.net/l1028386804/article/list/3?
+
 博客：shell反弹 msf等★★★★★
 https://sakuxa.com/2019/05/28/msf%E7%B3%BB%E5%88%97%E4%B9%8Bmsfvenom02/
 
