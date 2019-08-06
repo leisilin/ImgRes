@@ -1,6 +1,9 @@
 $ nohup java -jar test.jar >temp.txt &
 
 
+渗透资料
+https://github.com/CHYbeta/Web-Security-Learning/blob/master/README.md#course
+
 有一个大佬博客 渗透相关
 https://blog.csdn.net/yalecaltech/article/list/3?t=1&
 大牛博客
