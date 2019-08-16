@@ -1,6 +1,12 @@
 $ nohup java -jar test.jar >temp.txt &
 
-漏洞挖掘基础
+一个欧盟网站
+http://www.eufores.org/index.php?id=156
+
+
+漏洞挖掘基础 主要是一些信息搜集
+https://xz.aliyun.com/t/5428
+
 渗透博客
 http://debug.cool/
 
