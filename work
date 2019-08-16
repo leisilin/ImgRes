@@ -1,6 +1,6 @@
 $ nohup java -jar test.jar >temp.txt &
 
-
+漏洞挖掘基础
 渗透博客
 http://debug.cool/
 
