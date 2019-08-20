@@ -1,5 +1,9 @@
 $ nohup java -jar test.jar >temp.txt &
 、
+
+可以做复现的渗透测试
+https://xz.aliyun.com/t/4132
+
 安全小飞侠
 http://avfisher.win/
 
