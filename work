@@ -1,6 +1,9 @@
 $ nohup java -jar test.jar >temp.txt &
 、
 
+给msf生成的木马加密
+https://pan.baidu.com/s/1stxH3EaXtUsksZjRvtLEkg   
+
 可以做复现的渗透测试
 https://xz.aliyun.com/t/4132
 
