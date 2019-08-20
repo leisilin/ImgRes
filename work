@@ -1,6 +1,8 @@
 $ nohup java -jar test.jar >temp.txt &
 、
 
+一个渗透大牛的技术博客 
+https://blog.csdn.net/qq_36119192?t=1
 给msf生成的木马加密
 https://pan.baidu.com/s/1stxH3EaXtUsksZjRvtLEkg   
 
