@@ -1,6 +1,9 @@
 $ nohup java -jar test.jar >temp.txt &
 、
 
+一個小牛的技術博客，主要有python和靶場滲透
+https://ea5ter.cc/page/2/
+
 一个渗透大牛的技术博客 
 https://blog.csdn.net/qq_36119192?t=1
 给msf生成的木马加密
