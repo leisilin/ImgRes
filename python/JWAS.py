@@ -75,7 +75,7 @@ def exploit():
 	except Exception ,e:
         print("出现异常：%s",e)
     finally:
-        print("共破解"+str(i)+"个摄像头")
+        print("共破解"+str(i)+"个摄像头。")
 def main():
 	FindTarget()
 	exploit()
