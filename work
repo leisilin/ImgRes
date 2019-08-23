@@ -1,6 +1,10 @@
 $ nohup java -jar test.jar >temp.txt &
 、
 
+
+一个老牛的技术分享，自称全是干货
+https://github.com/Micropoor/Micro8
+
 一個小牛的技術博客，主要有python和靶場滲透
 https://ea5ter.cc/page/2/
 
